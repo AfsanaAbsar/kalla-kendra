@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logo {
+    font-family: 'Aclonica', sans-serif;
+    color: white;
+}
+
+.header-btn {
+    Width:
+        148px;
+    Height:
+        42px;
+
+    border-radius: 18px;
+    background-color: transparent;
+    color: white;
+}

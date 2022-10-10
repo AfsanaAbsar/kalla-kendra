@@ -1,0 +1,48 @@
+.grad {
+    background-image: linear-gradient(to right, #5B121E, #850A20, #5B121E);
+
+
+}
+
+.banner-desc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 250px;
+
+}
+
+
+.banner-area {
+    background: url(../../../images/download__6_-removebg-preview\ \(1\)\ 2.png);
+    background-repeat: no-repeat;
+}
+
+.banner-title {
+    margin-right: 300px;
+    color: white;
+    padding-bottom: 10px;
+    font-family: 'Aclonica', sans-serif;
+    font-weight: 400;
+    font-size:
+        40px;
+    line-height: 50px;
+}
+
+.banner-desc button {
+    width: 240px;
+    font-family: 'Aclonica', sans-serif;
+    border: none;
+    height: 78px;
+    border-radius: 50px;
+    background-color: #FFC7C7;
+
+}
+
+.image-area {
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
